@@ -1,6 +1,6 @@
 # DecisionCheck
 
-Interactive classroom prototype for behavioral finance in acquisition reviews. Primary brand color: `#E97132`.
+Interactive classroom prototype for behavioral finance in acquisition reviews.
 
 ## Publish through GitHub Pages
 
